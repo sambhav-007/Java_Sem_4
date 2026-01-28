@@ -1,3 +1,5 @@
+package Recursion;
+
 import java.util.Scanner;
 public class Permutation_Of_String {
     static int count = 0;
